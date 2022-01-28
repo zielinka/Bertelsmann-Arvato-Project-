@@ -25,6 +25,7 @@ There are three components completed for this project:
 I started the project using unsupervised learning techniques to analyse customer features and the general population in order to create customer segments. The goal is to perform a customer segmentation to predict which part of the general population should be targeted as future customers.
 Having response information (target) from mail campaign, I used supervised learning methods to build a machine learning model that predicts if each individual will respond to the marketing campaign. A model with the best accuracy I used to make predictions on the mail campaign dataset as part of the Kaggle Competition. Model ranks the individuals and predicts the response of a person in a future campaign. It provides us with insight how likely the individual is to become customer.
 
+Please find detailed overview of the project in blog post:
 
 ## File Descriptions<a name="files"></a>
 
