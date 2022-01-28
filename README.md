@@ -40,5 +40,5 @@ There are four data files associated with this project:
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Figure Eight for the data. Data Scientist NanoDegree content has been used to create the project. They provided the data from Figure Eight.
+Must give credit to Bertelsmann/Arvato for the data. Data Scientist NanoDegree content has been used to create the project. They provided the data from Bertelsmann/Arvato.
 
