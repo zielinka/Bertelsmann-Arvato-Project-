@@ -26,6 +26,7 @@ I started the project using unsupervised learning techniques to analyse customer
 Having response information (target) from mail campaign, I used supervised learning methods to build a machine learning model that predicts response from each individual to the marketing campaign. A model with the best accuracy I used to make predictions on the mail order campaign dataset as part of the Kaggle Competition. Model ranks the individuals and predicts the response of a person in a future campaign. It provides us with the insight who is most likely to become a customer.
 
 Please find detailed overview of the project in blog post:
+https://katarzyna-zielinska17.medium.com/customer-segmentation-report-for-bertelsmann-arvato-financial-4444af8836e7
 
 ## File Descriptions<a name="files"></a>
 
